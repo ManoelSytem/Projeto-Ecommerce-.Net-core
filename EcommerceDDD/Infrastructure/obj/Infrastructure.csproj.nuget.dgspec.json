@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Domain\\Domain.csproj": {
+    "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\valdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,18 +23,18 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities.csproj"
+              "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Entities\\Entities.csproj"
               }
             }
           }
@@ -46,8 +46,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities.csproj": {
+    "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\valdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Entities\\obj\\",
+        "outputPath": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -86,15 +86,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -105,22 +105,22 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\valdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -161,21 +161,21 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Domain\\Domain.csproj"
+              "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Domain\\Domain.csproj"
               },
-              "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities.csproj"
+              "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Projetos\\EcommerceDDD_TRS_NET5\\EcommerceDDD\\Entities\\Entities.csproj"
               }
             }
           }
@@ -187,20 +187,20 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

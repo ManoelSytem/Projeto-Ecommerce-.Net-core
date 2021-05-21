@@ -2,11 +2,7 @@
 using Domain.Interfaces.InterfaceCompraUsuario;
 using Domain.Interfaces.InterfaceServices;
 using Entities.Entities;
-using System;
 using System.Collections.Generic;
-using System.Runtime.InteropServices.WindowsRuntime;
-using System.Runtime.Serialization;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ApplicationApp.OpenApp
